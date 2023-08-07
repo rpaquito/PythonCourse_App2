@@ -2,3 +2,5 @@
 Showcase of Python projects
 
 ### Web developments
+
+### Other
